@@ -70,8 +70,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 AccessTech is a student-run accessibility application aimed at enhancing accessibility for disabled students at Texas Tech University. The application provides essential features to help users navigate the campus with ease, locate accessible entrances, and more.
 
 
