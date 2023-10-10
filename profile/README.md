@@ -61,7 +61,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -85,7 +84,7 @@ AccessTech is a student-run accessibility application aimed at enhancing accessi
 ## Getting Started
 
 This section provides instructions on setting up and running the AccessTech application locally.
-
+[TODO] :)
 
 
 ### Prerequisites
@@ -100,8 +99,9 @@ To use the software, you need the following prerequisites:
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the AccessTech repository
+1. Get a free API Key from Google Maps
+2. Install Flutter and run flutter pub get to download dependencies
+3. Clone the AccessTech repository
    ```sh
    git clone https://github.com/AccessTech-TTU/AccessTech.git
 
@@ -112,15 +112,15 @@ To use the software, you need the following prerequisites:
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Create app framework
+- [x] Implement primitive mapping
+- [x] Implement three main screens
+- [ ] Develop routing algorithm
+- [ ] Use Flutter accessibility modules
+- [ ] Finish plotting campus
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/AccessTech-TTU/AccessTech/issues) for a list of proposed features (and known issues).
+Request to join as a collaborater to see our roadmap!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +130,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
+If you'd like to join the development team, please email trlibre@ttu.edu
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
@@ -156,30 +156,9 @@ Distributed under the GNU General Public License v3. See `LICENSE.txt` for more 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Travis Libre - trlibre@ttu.edu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
