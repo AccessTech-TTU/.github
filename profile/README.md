@@ -34,7 +34,7 @@
   <h3 align="center">AccessTech</h3>
 
   <p align="center">
-    A student-run accessibility application!
+    A student-made accessibility application!
     <br />
   </p>
 </div>
